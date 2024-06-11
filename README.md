@@ -2,7 +2,7 @@
 ECM2423 - AI and Applications Coursework - Written in Python
 Grade: 86%, First
 
-_This project was for my AI and Applications course at Uni of Exeter. In this project I demonstrated my understanding of:
+This project was for my AI and Applications course at Uni of Exeter. In this project I demonstrated my understanding of:
   - Data Preprocessing and Handling Imbalanced Datasets
   - Model Optimisation and Hyperparameter Tuning
   - Evaluation and Interpretation of Model Performance
